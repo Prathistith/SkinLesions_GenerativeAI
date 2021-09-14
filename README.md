@@ -1,6 +1,6 @@
 # SkinAid: A GAN-based Automatic Skin Lesion Monitoring Method for IoMT Frameworks
 
-This is the official W-GAN code release:
+This is the official W-GAN code release of our paper:
 #### Submitted for IEEE OITS International Conference on Information Technology, December-2021
 
 ###  Overview:
