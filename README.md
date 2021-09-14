@@ -17,8 +17,13 @@ This is the official W-GAN code release:
 ### (a) Extracting the Region-of-interest:
 <img src="Images/roi.png" width="1000"/>
 
+<br>
+
 ### (b) Samples of Synthetic Images Generated using Wassetstein GAN:
 <img src="synthetic_samples/2.png" width="200"/> <img src="synthetic_samples/3.png" width="200"/> <img src="synthetic_samples/1.png" width="200"/> <img src="synthetic_samples/4.png" width="200"/>
 
+<br>
+
 ### (c) Training CNN models with Transfer Learning & Smartphone Deployment:
 <img src="Images/mobile_app.png" width="600"/>
+<img src="Images/cnn_acc_comparision.png" width="600"/>
